@@ -1,4 +1,0 @@
-Formas alternativas de rodar js:
-    fidle
-    repl
-    
