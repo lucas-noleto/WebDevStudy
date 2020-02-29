@@ -4,7 +4,7 @@ function calculadora (x,y){
     mult = x * y
 
     return console.log(
-    `Soma: ${soma}
+    `   Soma: ${soma}
     Subtração: ${sub}      
     Multiplicação: ${mult}` )
 }
